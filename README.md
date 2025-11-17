@@ -3,4 +3,4 @@
 A simple HTML-only project demonstrating layout structure without styling.
 
 ### Live Project URL:
-https://html-only-portfolio/
+https://github.com/maikyy24/html-only-portfolio
